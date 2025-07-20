@@ -1,2 +1,0 @@
-# LibraryBookTracker
-Library Book Tracker
